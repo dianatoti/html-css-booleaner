@@ -28,3 +28,16 @@
     background-repeat: no-repeat;
 }
 
+.h1 {
+    font-size: 60px;
+}
+
+.sottotitolo-1 {
+    color: rgb(169, 169, 169);
+    font-size: 30px;
+    margin-top: -35px;
+}
+
+.autore {
+    color: rgb(102, 204, 255);
+}
