@@ -18,7 +18,7 @@
 
 .logo {
     background-image: url(../img/logo.svg);
-    position: absolute; 
+    position: absolute;
     bottom: 0;
     left: 0;
     z-index: 1;
@@ -43,3 +43,12 @@
     color: rgb(102, 204, 255);
 }
 
+.sottotitoli-immagini-1 {
+    font-size: 10px;
+    margin-top: -15px;
+}
+
+.sottotitoli-immagini-2 {
+    font-size: 10px;
+    margin-top: -15px;
+}
