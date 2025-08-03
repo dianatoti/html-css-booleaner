@@ -57,3 +57,30 @@
  background-color: rgb(255, 255, 0);
 }
 
+.tabella-booleaner {
+    width: 100%;
+    border-collapse: collapse;
+    border: none;
+}
+
+.tr {
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 162, 237);
+    background-size: 14px;
+}
+
+.tr-azzurro {
+    font-size: 14px;
+    background-color: rgba(143, 235, 255, 0.588);
+
+}
+
+.tr-bianco {
+    font-size: 14px;
+    background-color: rgb(255, 255, 255);
+}
+
+.footer {
+    margin-top: 15px;
+}
