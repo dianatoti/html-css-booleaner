@@ -84,3 +84,40 @@
 .footer {
     margin-top: 15px;
 }
+
+.h3-color {
+    color: rgb(157, 156, 156);
+    margin-bottom: 6px;
+}
+
+.img-monitor {
+  position: relative;
+  display: inline-block;
+  width: 300px; 
+}
+
+.img-dati {
+position: absolute;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 50px;
+}
+
+.titolo-img-monitor {
+  position: absolute;
+  top: 10px; 
+  left: 10px;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.titolo-img-dati {
+  position: absolute;
+  top: 10px; 
+  left: 10px;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+}
